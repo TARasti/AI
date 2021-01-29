@@ -1,4 +1,4 @@
-# This program works with 2 input, 2 hidden and 1 output layer.
+# This program works with 2 input neuron , 2 hidden neuron and 1 output layer.
 # Author: Tanveer Ahmed Khan
 # BSCIS(18-22)- 5th Semester PIEAS
 # AI Assignement - BPNN
